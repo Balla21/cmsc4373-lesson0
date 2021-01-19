@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site" : "lesson0-dbk2021wsp",
     "public": "public",
     "ignore": [
       "firebase.json",
